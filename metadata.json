@@ -1,0 +1,9 @@
+{
+  "name": "GeminiSocial",
+  "description": "A full-featured social networking platform with real-time chat, friend requests, and AI-powered message suggestions using Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
